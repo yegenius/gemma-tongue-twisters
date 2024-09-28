@@ -235,4 +235,4 @@ While the fine-tuned model has improved in generating coherent tongue twisters:
 
 ## **Contributions**
 
-This model was fine-tuned by using the Hugging Face `transformers` and `peft` libraries. The training dataset is based on the paper ["TongueTwister Games: A New Benchmark and Dataset for Word Play Generation"](https://aclanthology.org/2023.acl-short.51.pdf) from ACL 2023. For any issues, please contact [here](https://github.com/EunchongKim)
+This model was fine-tuned by using the Hugging Face `transformers` and `peft` libraries. The training dataset is based on the paper ["TongueTwister Games: A New Benchmark and Dataset for Word Play Generation"](https://aclanthology.org/2023.acl-short.51.pdf) from ACL 2023. For any issues, please contact [here](https://github.com/yegenius)
